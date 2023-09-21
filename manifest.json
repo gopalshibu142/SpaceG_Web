@@ -1,6 +1,6 @@
 {
-    "name": "spaceg",
-    "short_name": "spaceg",
+    "name": "spacexplor",
+    "short_name": "spacexplor",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
